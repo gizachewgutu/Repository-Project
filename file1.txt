@@ -1,4 +1,2 @@
-BThis to see git remote add origin url work on the local
-C
-C
-This to see the g
+This repo takes me long time to push to remote repository github.Finally done sucessfully.
+Then edited in github the pull the change i made to local repository.
