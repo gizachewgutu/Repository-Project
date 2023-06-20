@@ -1,0 +1,3 @@
+this pull only from remote with out tell any.
+but only initialize the empty repository and see .git
+by writing ls -la
